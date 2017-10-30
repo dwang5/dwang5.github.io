@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "About"
-description: "Intro to our work."
+description: Intro to our work.
 ---
-{% include JB/setup %}
 
 ## Computational Science
 
