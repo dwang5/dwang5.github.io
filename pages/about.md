@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "Test"
+description: "Intro to our work."
 ---
 {% include JB/setup %}
 
@@ -15,3 +15,5 @@ These research arear are rising faster than people anticipated.
 Their application will make ways into many branches of our work and everyone of us will be affected.
 There are a few things in particular we are interested:
 - The techinques applied to computational science
+
+## Analysis
