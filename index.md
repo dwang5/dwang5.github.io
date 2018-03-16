@@ -16,24 +16,25 @@ keywords: D. Wang, perovskite, machine learing, computation physics
 Computatonal science for D. Wang.
 - [Making a personal site](pages/user_site.html)
 
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="morefigs.html">see more figures</a></li>
-      </ul>
-  </div>
-</div>
 
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/publpics/rqtlexper_fig1.html">
-        <img src="assets/publpics/rqtlexper_fig1.png" alt="Broman (2014) Fig 1" title="Broman (2014) Fig 1"/>
+    <a href="pages/publpics/fittings.html">
+        <img src="assets/publpics/rqtlexper_fig1.png" alt="J. Liu (2017) Fig. 1" title="J. Liu (PRB 2017) Fig. 1"/>
     </a>
   </td>
-  <td class="right">
-    <a href="pages/publpics/rqtlexper_fig2.html">
-        <img src="assets/publpics/rqtlexper_fig2.png" alt="Broman (2014) Fig 2" title="Broman (2014) Fig 2"/>
-    </a>
-  </td>
+  <!-- <td class="right"> -->
+    <!-- <a href="pages/publpics/rqtlexper_fig2.html"> -->
+        <!-- <img src="assets/publpics/rqtlexper_fig2.png" alt="Broman (2014) Fig 2" title="Broman (2014) Fig 2"/> -->
+    <!-- </a> -->
+  <!-- </td> -->
 </tr>
+
+<div class="navbar">
+  <div class="navbar-inner">
+      <!-- <ul class="nav"> -->
+          <!-- <li><a href="morefigs.html">see more figures</a></li> -->
+      <!-- </ul> -->
+  </div>
+</div>
