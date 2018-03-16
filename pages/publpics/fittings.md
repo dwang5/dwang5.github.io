@@ -27,5 +27,5 @@ turns out to be quite successful.
 If you are interested, here we also provide the data and the
 'Matheamtiac' program so that you can try it for yourself -- just put
 the two files in the same directory, then start the Mathematica program.
-[![DATA](../icons16/data-icon.png)](../../assets/fittigs/MC_results_2.DAT)
-[![Program](../icons16/data-icon.png)](../../assets/maxwell_fitting_fig1.nb)
+[![DATA](../icons16/data-icon.png)](../../assets/fittings/MC_results_2.DAT)
+[![Program](../icons16/mathematica-icon.png)](../../assets/fittings/maxwell_fitting_fig1.nb)
