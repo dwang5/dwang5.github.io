@@ -20,7 +20,7 @@ Computatonal science for D. Wang.
 <tr>
   <td class="left">
     <a href="pages/publpics/fittings.html">
-        <img src="assets/publpics/rqtlexper_fig1.png" alt="J. Liu (2017) Fig. 1" title="J. Liu (PRB 2017) Fig. 1"/>
+        <img src="assets/publpics/fittings_Fig_1.png" alt="J. Liu (2017) Fig. 1" title="J. Liu (PRB 2017) Fig. 1"/>
     </a>
   </td>
   <!-- <td class="right"> -->
