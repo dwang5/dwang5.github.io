@@ -28,4 +28,4 @@ If you are interested, here we also provide the data and the
 *Matheamtiac* program so that you can try it for yourself -- just put
 the two files in the same directory, then start the Mathematica program.
 [![DATA](../icons16/data-icon.png)](../../assets/fittings/MC_results_2.DAT)
-[![Program](../icons16/mathematica-icon.png)](../../assets/fittings/maxwell_fitting_fig1.nb)
+[![Program](../icons16/mathematica_16x16.png)](../../assets/fittings/maxwell_fitting_fig1.nb)
