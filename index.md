@@ -13,12 +13,11 @@ keywords: D. Wang, perovskite, machine learing, computation physics
   </div>
 </div>
 
-Computatonal science for D. Wang.
-
 
 <table class="wide">
 <tr>
   <td class="left">
+    Phys. Rev. B **96**, 054115 
     <a href="pages/publpics/fittings.html">
         <img src="assets/publpics/fittings_Fig_1.png" alt="J. Liu (2017) Fig. 1" title="J. Liu (PRB 2017) Fig. 1"/>
     </a>
