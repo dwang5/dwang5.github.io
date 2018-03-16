@@ -37,6 +37,9 @@ description: Karl Broman's publications
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_DataOrg)
 <!-- * 148 * -->
 <!-- https://doi.org/10.1080/00031305.2017.1375989 -->
+## # #2018
+对于掺杂是如何影响铁电体的性质的，目前有很多种理论解释。在这里，我们提出了一种新的defect dipole 模型。通过MC模拟计算，我们得到了与实验结果吻合很好的电滞回线，相变图。并且，通过仔细的研究与分析BTO内部电偶极子（类型，电偶极子分量的大小分布），我们合理的解释了我们的模型是如何导致这些结果的（物理过程）。对于电滞回线由于defect dipole 的引入，首先会对相临电偶极子的破坏，还有active dipole的产生。这使得ps pr Ec都会随着掺杂而降低。Tc降低是Defectdipole AD长程相互作用阻碍相变发生。T2是displacive相变，由于掺杂有利于111类型产生，需要温度升高转动产生其他相。同时降低长程相互作用的重要性。而t1是两种相变的混合。
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/florek2017.pdf)
 
 #### 2017
 

@@ -3,7 +3,6 @@ layout: page
 title: about
 description: Intro to our work.
 ---
-
 ## Computational Science
 
 Here we are trying to understand nature through computation.
@@ -18,3 +17,5 @@ There are a few things in particular we are interested:
 ### Analysis
 
 Analysis.
+
+[^1]: 
