@@ -11,15 +11,14 @@ title: J. Liu (PRB 2017).
       </ul>
   </div>
 </div>
+Insights into the dielectric response of ferroelectric relaxors from statistical modeling
+J. Liu, F. Li, Y. Zeng, Z. Jiang, L. Liu, D. Wang, Z.-G. Ye, and C.-L. Jia
+Phys. Rev. B *96*, 054115 
 
 Broman KW, Murray JC, Sheffield VC, White RL, Weber JL (1998) Comprehensive human genetic maps: Individual
 and sex-specific variation in recombination. Am J Hum Genet 63:861-869
-[![PubMed](../icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/9718341)
-[![pdf (534k)](../icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/geneticmaps.pdf)
+[![APS](../icons16/notes-icon.png)](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.054115)
 
-![Broman et al. (1998) Fig 3](../../assets/bigpublpics/geneticmaps_fig3_lg.png)
+![J. Liu et al. (PRB 2017) Fig. 1](../../assets/bigpublpics/fittings_Fig_1.png)
 
-**Figure 3**. &mdash; Total no. of observed recombination events in the 22
-autosomes in each male and female meiosis, plotted by family (A and
-B) and against the age of the parent at the birth of the
-corresponding child (C and D).
+**Figure 1**. &mdash; We have used.
