@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: D. Wang
+title: d. wang
 description: D. Wang is Professor at XJTU donig computational research.
 keywords: D. Wang, perovskite, machine learing, computation physics
 ---
