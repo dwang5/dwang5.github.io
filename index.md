@@ -14,7 +14,6 @@ keywords: D. Wang, perovskite, machine learing, computation physics
 </div>
 
 Computatonal science for D. Wang.
-- [Making a personal site](pages/user_site.html)
 
 
 <table class="wide">
@@ -33,8 +32,8 @@ Computatonal science for D. Wang.
 
 <div class="navbar">
   <div class="navbar-inner">
-      <!-- <ul class="nav"> -->
-          <!-- <li><a href="morefigs.html">see more figures</a></li> -->
-      <!-- </ul> -->
+      <ul class="nav">
+          !-- <li><a href="morefigs.html">see more figures</a></li>
+      </ul>
   </div>
 </div>
