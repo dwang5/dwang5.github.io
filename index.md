@@ -29,11 +29,3 @@ Computatonal science for D. Wang.
     <!-- </a> -->
   <!-- </td> -->
 </tr>
-
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          !-- <li><a href="morefigs.html">see more figures</a></li>
-      </ul>
-  </div>
-</div>
