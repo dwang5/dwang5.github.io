@@ -10,12 +10,12 @@ keywords: D. Wang, perovskite, machine learing, computation physics
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
           <li><a href="https://dwang5.github.io">github</a></li>
-          <li><a href="https://twitter.com/kwbroman">@kwbroman</a></li>
       </ul>
   </div>
 </div>
 
 Computatonal science for D. Wang.
+- [Making a personal site](pages/user_site.html)
 
 <div class="navbar">
   <div class="navbar-inner">

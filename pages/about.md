@@ -3,7 +3,7 @@ layout: page
 title: about
 description: Intro to our work.
 ---
-## Computational Science
+### Computational Science
 
 Here we are trying to understand nature through computation.
 

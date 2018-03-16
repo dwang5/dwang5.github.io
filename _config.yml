@@ -52,7 +52,7 @@ JB :
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
-  #BASE_PATH: https://dwang5.github.io
+  BASE_PATH: https://dwang5.github.io
 
   #
   # Override this by defining an absolute path to assets here.
