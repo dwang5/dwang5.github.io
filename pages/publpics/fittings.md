@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Broman et al. (1998) Fig 3
+title: J. Liu (PRB 2017).
 ---
 
 <div class="navbar">
