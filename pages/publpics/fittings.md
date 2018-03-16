@@ -11,7 +11,7 @@ title: J. Liu (PRB 2017).
       </ul>
   </div>
 </div>
-Insights into the dielectric response of ferroelectric relaxors from statistical modeling
+*Insights into the dielectric response of ferroelectric relaxors from statistical modeling*,
 J. Liu, F. Li, Y. Zeng, Z. Jiang, L. Liu, D. Wang, Z.-G. Ye, and C.-L. Jia
 Phys. Rev. B **96**, 054115 
 [![APS](../icons16/notes-icon.png)](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.054115)
@@ -27,5 +27,5 @@ turns out to be quite successful.
 If you are interested, here we also provide the data and the
 'Matheamtiac' program so that you can try it for yourself -- just put
 the two files in the same directory, then start the Mathematica program.
-[![DATA]](../icons16/data-icon.png)(http://arxiv.org/abs/1611.08151)
-[![Program](../icons16/data-icon.png)](http://arxiv.org/abs/1611.08151)
+[![DATA](../icons16/data-icon.png)](../../assets/fittigs/MC_results_2.DAT)
+[![Program](../icons16/data-icon.png)](../../assets/maxwell_fitting_fig1.nb)
