@@ -6,8 +6,24 @@ description: Intro to our work.
 ### Computational Science
 
 We try to understand physical systems with computational and algorithmic
-methods. As algorithms are eating the world, this approach will be more
-widely used.
+approach.
+
+### Intelligent methods
+There is no doubt that  many people have noticed that algorithms are eating the world.  
+This trend will inevitably enter our research area as well -- we
+better embrace this new approach.
+
+Roughly speaking, there are three common intelligent approaches:
+- Data Minining
+  In this approach, researchers accumulate a large amount of data, and
+  hope to find some better ones than currently used.
+
+- Machine Learning
+  In some sense, this is a better way for data mining.
+
+- Artificial Intelligence
+  With the advent of "Alpha Go" and "Alpha Go Zero", AI is taking over.
+  This is a true game changer that everyone of us will be affected.
 
 
 <!-- ### Machine Learning / Data Mining / Artificial Intelligence -->
