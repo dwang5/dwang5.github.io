@@ -14,14 +14,14 @@ This trend will inevitably enter our research area as well -- we
 better embrace this new approach.
 
 Roughly speaking, there are three common intelligent approaches:
-- Data Minining
+- Data Minining.
   In this approach, researchers accumulate a large amount of data, and
   hope to find some better ones than currently used.
 
-- Machine Learning
+- Machine Learning.
   In some sense, this is a better way for data mining.
 
-- Artificial Intelligence
+- Artificial Intelligence.
   With the advent of "Alpha Go" and "Alpha Go Zero", AI is taking over.
   This is a true game changer that everyone of us will be affected.
 
