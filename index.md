@@ -21,9 +21,9 @@ keywords: D. Wang, perovskite, machine learing, computation physics
         <img src="assets/publpics/fittings_Fig_1.png" alt="J. Liu (2017) Fig. 1" title="J. Liu (PRB 2017) Fig. 1"/>
     </a>
   </td>
-  <!-- <td class="right"> -->
+  <td class="right">
     <!-- <a href="pages/publpics/rqtlexper_fig2.html"> -->
         <!-- <img src="assets/publpics/rqtlexper_fig2.png" alt="Broman (2014) Fig 2" title="Broman (2014) Fig 2"/> -->
-    <!-- </a> -->
-  <!-- </td> -->
+     </a>
+  </td> 
 </tr>
