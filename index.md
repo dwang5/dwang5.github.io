@@ -14,8 +14,7 @@ keywords: D. Wang, perovskite, machine learing, computation physics
 </div>
 
 
-<table class="wide", bgcolor="#FFFFCC", border=0, cellspacing=0,
-cellpadding=10>
+<table class="wide">
 <tr>
   <td class="left">
     <a href="pages/publpics/fittings.html">
