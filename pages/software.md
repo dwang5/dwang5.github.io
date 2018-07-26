@@ -15,6 +15,12 @@ description: DW's software
 
 ---
 
+#### <a name="Global Atom Positioning System"></a>[GAPS](gaps.html)
+
+[GAPS](gaps.html) is our software.
+
+---
+
 #### <a name="ocaml"></a>[ocaml](http://www.ocaml.org)
 
 [Ocaml](http://www.ocaml.org/) is a functional language that has been
