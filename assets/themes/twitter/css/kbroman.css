@@ -37,10 +37,9 @@ p.center {
 
 table.wide {
     width: 100%;
-    bgcolor: "#FFFFCC";
-    border=5;
-    cellspacing=20;
-    cellpadding=20
+    border:5;
+    border-collapse: separate;
+    border-spacing: 5px 5px;
 }
 
 table.wide td {
