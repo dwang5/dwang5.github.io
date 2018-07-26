@@ -18,7 +18,7 @@ H. Nan, J. Lu, M. Liu, H. Jing, S. Tang, D. Wang, C. Jia
 J. Chin. Electr. Microsc. Soc. **35**, 191 (2016).
 [![Our copy](../icons16/pdf-icon.png)](../../assets/pdfs/Nan-Hu_JCEMS_2016.pdf)
 
-![N. Hu, et al. (JCEMS, 2016) Fig. 6](../../assets/bigpublpics/fittings_Fig_1.png)
+![N. Hu, et al. (JCEMS, 2016) Fig. 6](../../assets/bigpublpics/atoms.png)
 **Figure 1**. &mdash; The analysis of an image of PTO using the axial
 ration *c/a* values, which shows the deformation of each unit cell.
 Choosing proper *c/a* threshold accurately distinguish the two types of
