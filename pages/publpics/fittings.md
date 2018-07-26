@@ -6,8 +6,8 @@ title: J. Liu (PRB 2017).
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="fittings.html">prev</a></li>
-          <li><a href="fittings.html">next</a></li>
+          <li><a href="electron_microscope.html">prev</a></li>
+          <li><a href="electron_microscope.html">next</a></li>
       </ul>
   </div>
 </div>
