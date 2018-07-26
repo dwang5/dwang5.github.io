@@ -25,7 +25,7 @@ keywords: D. Wang, perovskite, machine learing, computation physics
 
   <td class="right">
   <a href="pages/publpics/electron_microscope.html">
-        <img src="assets/bigpublpics/atoms.png" alt="J. Liu (2017) Fig. 1" title="J. Liu (PRB 2017) Fig. 1"/>
+        <img src="assets/publpics/atoms2.png" alt="J. Liu (2017) Fig. 1" title="J. Liu (PRB 2017) Fig. 1"/>
     </a>
   </td>
 </tr>
