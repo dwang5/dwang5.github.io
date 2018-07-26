@@ -15,9 +15,9 @@ description: DW's software
 
 ---
 
-#### <a name="Global Atom Positioning System"></a>[GAPS](gaps.html)
+#### <a name="Global Atom Positioning System"></a>[GAPS](./publpics/gaps.html)
 
-[GAPS](gaps.html) is our software.
+[GAPS](./publpics/gaps.html) is our software.
 
 ---
 
