@@ -24,5 +24,5 @@ ration *c/a* values, which shows the deformation of each unit cell.
 Choosing proper *c/a* threshold accurately distinguish the two types of
 unit cells.
 
-**This work is done using our home-grown software systems "Gloabl Atom
+**This work is done using our home-grown software "Gloabl Atom
 Positioning System (GAPS)"**
