@@ -28,6 +28,12 @@ used in financial industry.
 
 ---
 
+#### <a name="git"></a>[git](https://en.wikipedia.org/wiki/Git)
+
+[Git](https://en.wikipedia.org/wiki/Git) is a great tool that help us managing contents.
+
+---
+
 
 #### <a name="D3"></a>[D3 examples](http://d3js.org)
 
