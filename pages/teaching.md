@@ -1,6 +1,7 @@
 ---
 layout: page
-title: teaching at xjtu
+title: teaching
+description: teaching at xjtu
 ---
 
 At XJTU, I teach to graduate-level courses.
