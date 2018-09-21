@@ -12,7 +12,7 @@ title: H. Nan (JCEMS, 2016).
   </div>
 </div>
 *Automatic and accurate determination of atom peak location in
-high-resolution electro microscopy image and fast visualization of
+high-resolution electron microscopy image and fast visualization of
 polarization domains*,
 H. Nan, J. Lu, M. Liu, H. Jing, S. Tang, D. Wang, C. Jia
 J. Chin. Electr. Microsc. Soc. **35**, 191 (2016).
