@@ -8,6 +8,7 @@ keywords: D. Wang, perovskite, machine learing, computation physics
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
+          <li><a href="pages/pubs.html">publications</a></li>
           <li><a href="https://dwang5.github.io">github</a></li>
       </ul>
   </div>
@@ -29,10 +30,3 @@ keywords: D. Wang, perovskite, machine learing, computation physics
     </a>
   </td>
 </tr>
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="pages/pubs.html">publications</a></li>
-      </ul>
-  </div>
-</div>
