@@ -29,3 +29,10 @@ keywords: D. Wang, perovskite, machine learing, computation physics
     </a>
   </td>
 </tr>
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href="pages/pubs.html">publications</a></li>
+      </ul>
+  </div>
+</div>
