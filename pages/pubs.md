@@ -1,5 +1,5 @@
 ---
-layout: page
+layout:
 title: publications
 description: Karl Broman's publications
 ---
