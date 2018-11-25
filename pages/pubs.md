@@ -16,6 +16,7 @@ description: Karl Broman's publications
 ### <a name="method"></a>Method development
 
 #### Ewald method for perovskites
+The documentation: [PyEwald](./PyEwald/index.html).
 
 ### <a name="understanding"></a> Understanding and predicting 
 
