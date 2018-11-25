@@ -1,7 +1,7 @@
 ---
-layout:
+layout: page
 title: publications
-description: Karl Broman's publications
+description: Dawei Wang's publications
 ---
 
 <div class="navbar">
