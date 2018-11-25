@@ -16,7 +16,7 @@ description: Dawei Wang's publications
 ### <a name="method"></a>Method development
 
 #### Ewald method for perovskites
-The documentation: [PyEwald](../PyEwald/index.html).
+The documentation: [PyEwald](../PyEwald/index.html) [This page](https://dwang5.github.io/PyEwaldDoc).
 
 ### <a name="understanding"></a> Understanding and predicting 
 
