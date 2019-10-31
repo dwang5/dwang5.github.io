@@ -18,7 +18,7 @@ description: Dawei Wang's publications
 #### Ewald method for perovskites
 The documentation: [PyEwald](https://dwang5.github.io/PyEwaldDoc).
 #### Octahedron tiltings for perovskites
-The documentation: [PyTilting](https://dwang5.github.io/PyEwaldDoc).
+The documentation: [PyTilting](https://dwang5.github.io/PyTiltingDoc).
 
 ### <a name="understanding"></a> Understanding and predicting 
 
