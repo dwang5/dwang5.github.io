@@ -15,9 +15,9 @@ description: DW's software
 
 ---
 
-#### <a name="Global Atom Positioning System"></a>[GAPS](./publpics/gaps.html)
+#### <a name="Atom Peak Position Search Algorithm"></a>[APPSA](./publpics/gaps.html)
 
-[GAPS](./publpics/gaps.html) is our software.
+[APPSA](./publpics/gaps.html) has demonstrated its capability in several publications.
 
 ---
 
